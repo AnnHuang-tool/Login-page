@@ -7,11 +7,11 @@
 ## 安裝方式 
 1. 開啟終端機，進入至欲儲存此專案的資料夾，並clone此專案
 
-`git clone https://github.com/ChubbyKay/restaurant_list.git`
+`git clone `
 
 2. 進入專案資料夾
 
-`cd restaurant_list `
+`cd login_page `
 
 3. 在進入專案資料的狀態下安裝套件
 
